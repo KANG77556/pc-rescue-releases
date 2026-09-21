@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0-beta.5",
+  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.5.exe",
+  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.5/PCRescue.Manager.Desktop-v1.0.0-beta.5.exe",
+  "sha256": "3fe3230a6fbe9620daf69f19df69debc0361cddbb7151536a40f4373be929cd2",
+  "notes": "관리자 UI 개편 및 전자칠판 방식 자동 업데이트 기능 추가"
+}
