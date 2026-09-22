@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-beta.9",
-  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.9.exe",
-  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.9/PCRescue.Manager.Desktop-v1.0.0-beta.9.exe",
-  "sha256": "fe5af7768882ea9228769bd98c09b48745bc2b627121cb0f638184464362ee17",
-  "notes": "통합관제, 텔레메트리, 백업/복원, Windows Update 복구 및 안정성 개선"
+  "version": "1.0.0-beta.10",
+  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.10.exe",
+  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.10/PCRescue.Manager.Desktop-v1.0.0-beta.10.exe",
+  "sha256": "1bacab52c807c397d07882f52bd20c486afb57a0249952e6bf6df47086cf1e51",
+  "notes": "통합관제, 텔레메트리, 백업/복원, Windows Update 복구, 업데이트 경로 안정화"
 }
