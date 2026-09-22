@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-beta.5",
-  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.5.exe",
-  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.5/PCRescue.Manager.Desktop-v1.0.0-beta.5.exe",
-  "sha256": "3fe3230a6fbe9620daf69f19df69debc0361cddbb7151536a40f4373be929cd2",
-  "notes": "관리자 UI 개편 및 전자칠판 방식 자동 업데이트 기능 추가"
+  "version": "1.0.0-beta.9",
+  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.9.exe",
+  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.9/PCRescue.Manager.Desktop-v1.0.0-beta.9.exe",
+  "sha256": "fe5af7768882ea9228769bd98c09b48745bc2b627121cb0f638184464362ee17",
+  "notes": "통합관제, 텔레메트리, 백업/복원, Windows Update 복구 및 안정성 개선"
 }
