@@ -1,7 +1,7 @@
 {
-  "version": "1.0.0-beta.11",
-  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.11.exe",
-  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.11/PCRescue.Manager.Desktop-v1.0.0-beta.11.exe",
-  "sha256": "6c9940280643fe5beb458f7cdf04879181f53d6184d9fef79bc7e01e4d481d59",
-  "notes": "20대 동시 Heartbeat/텔레메트리 안정성 개선: SQLite database locked 방지, Heartbeat DB 접근 직렬화 및 제한 재시도"
+  "version": "1.0.0-beta.12",
+  "file": "PCRescue.Manager.Desktop-v1.0.0-beta.12.exe",
+  "url": "https://github.com/KANG77556/pc-rescue-releases/releases/download/v1.0.0-beta.12/PCRescue.Manager.Desktop-v1.0.0-beta.12.exe",
+  "sha256": "c4addf8d1bf502f1d97657bf856e7c882bc8269beb1733ec00f3320b05fd6939",
+  "notes": "대시보드 감사로그 조회 500 오류 수정, SQLite DateTimeOffset 정렬 안정화, 회귀 테스트 추가"
 }
